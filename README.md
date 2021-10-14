@@ -3,11 +3,6 @@
 - [Habilidades](#habilidades)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-- [Como desenvolver](#como-desenvolver)
-  - [Execução de testes de requisito](#execução-de-testes-de-requisito)
-  - [Lista de requisitos](#lista-de-requisitos)
 
     `Requisitos Entrega 1:`
     - [1 - Crie uma página de login](#1---crie-uma-página-de-login)
