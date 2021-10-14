@@ -68,7 +68,7 @@ Você pode ler mais sobre os atributos que serão utilizados para testes [neste 
 
 Esse repositório contém duas pastas, `back-end` e `front-end`, onde você deve desenvolver o front-end e o back-end da aplicação. Ambas as pastas contêm um projeto iniciado com as configurações básicas necessárias. Após clonar o projeto e instalar as dependências, sinta-se livre para escolher usar Redux ou ContextAPI + React Hooks. Saiba avaliar as vantagens/desvantagens de cada um na hora da escolha.
 
-Para o banco de dados, você deverá utilizar o `MySQL`. Já existe um script, na raiz do seu app. O nome do script é `script.sql`.
+Para o banco de dados, você deverá utilizar o `MySQL`.
 
 ##### Você também deve **escrever testes unitários que devem cobrir pelo menos 90% do projeto**. Na [documentação do Jest CLI](https://jestjs.io/docs/en/cli) é possível ver como essa cobertura é coletada.
 
