@@ -7,7 +7,6 @@
   - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
 - [Como desenvolver](#como-desenvolver)
 - [Requisitos do projeto](#requisitos-do-projeto)
-  - [Linter](#linter)
   - [Execução de testes de requisito](#execução-de-testes-de-requisito)
   - [Lista de requisitos](#lista-de-requisitos)
 
@@ -30,8 +29,6 @@
     
     `Bônus:`
     - [13 - Cobertura de testes unitários](#13---cobertura-de-testes-unitários)
-- [Avisos Finais](#avisos-finais)
-
 ---
 
 # Habilidades
