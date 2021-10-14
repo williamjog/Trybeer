@@ -6,7 +6,6 @@
 - [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
   - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
 - [Como desenvolver](#como-desenvolver)
-- [Requisitos do projeto](#requisitos-do-projeto)
   - [Execução de testes de requisito](#execução-de-testes-de-requisito)
   - [Lista de requisitos](#lista-de-requisitos)
 
