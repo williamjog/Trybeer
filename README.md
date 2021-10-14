@@ -56,8 +56,6 @@ Para servir arquivos estáticos como imagens no back-end, utilize o seguinte pat
 
 ##### ⚠️ Lembre-se de escrever testes unitários e sinta-se livre para alterar a UI. Contudo, respeite os atributos `data-testid`, pois eles serão usados na correção do projeto.
 
-Você pode ler mais sobre os atributos que serão utilizados para testes [neste link](https://www.eduardopedroso.com.br/?p=494).
-
 ---
 
 ## Desenvolvimento
