@@ -1,3 +1,11 @@
+# Para iniciar
+
+- Abrir dois terminais;
+- Acessar a pasta do back-end e digitar npm start.
+- Acessar a pasta do front-end e digitar npm start.
+- Rodar o script.sql para popular o banco MySQL.
+
+
 # Sumário
 
 - [Habilidades](#habilidades)
